@@ -1,6 +1,16 @@
-# data_visualization 
+# data_visualization OF FOOD exported data
 a task project <br />
-1. The dataset used here is a Market Food export dataset. This was in the form of xlsx format.<br />
+ The dataset used here is a Market Food export dataset. This was in the form of xlsx format.<br />
+# Prerequisites
+ jupyter notebook 
+# Installations
+ import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import datetime as dt
+import openpyxl
+# Procedure followed 
 2. I have uploaded the dataset successfully in my notebook <br />
 3. After that I 've checked if Data has null values using .isnull() . Since it has null values so, i've used .dropna() .<br />
 4. Now the columns in dataset are - DATE , DESCRIPTION , UNIT & PLACE.<br />
