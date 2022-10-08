@@ -22,7 +22,7 @@ import openpyxl
 2. By applying countplot on 'DESCRIPTION' , I got that 10 types of food items have been demanded out of which BEEF is highly demanded and Kadumanga is least demanded.<br />
 3. BY applying scatterplot on column -(DESCRIPTION and day ) we got to know that NO relaton exists among these .<br />
 4. By applying Box plot on (UNIT ,month)together and (DESCRIPTION ,month) together we get that , there are no outliers.and kadumanga was only ordered for start of month april. and dates were also last ordered in May .<br />
- <img src="E:\notes ss" width="385px" align="center">
+ <img src="E:\notes ss\outputpic.png" width="385px" align="center">
  
 # What else can be done
 1. Data should have to be of large size and correlation should have to be present <br />
