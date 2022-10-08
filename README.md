@@ -6,15 +6,13 @@ a task project <br />
 # Installations
 ```r
 import pandas as pd 
-```
 import numpy as np<br />
-```
 import matplotlib.pyplot as plt <br />
-```
+
 import seaborn as sns <br />
-```
+
 import datetime as dt<br />
-```
+
 import openpyxl<br />
 ```
 # Insights from the visualizations 
