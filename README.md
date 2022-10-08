@@ -6,14 +6,16 @@ a task project <br />
 # Installations
 ```r
 import pandas as pd 
-import numpy as np<br />
-import matplotlib.pyplot as plt <br />
 
-import seaborn as sns <br />
+import numpy as np
 
-import datetime as dt<br />
+import matplotlib.pyplot as plt 
 
-import openpyxl<br />
+import seaborn as sns 
+
+import datetime as dt
+
+import openpyxl
 ```
 # Insights from the visualizations 
 1. By applying countplot on 'month' column of data , I  got that only 3 month data is given .<br />
