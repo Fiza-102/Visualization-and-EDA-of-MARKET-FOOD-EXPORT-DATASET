@@ -4,7 +4,7 @@ a task project <br />
 # Prerequisites
  jupyter notebook 
 # Installations
-(import pandas as pd) <br />
+import pandas as pd <br />
 import numpy as np<br />
 import matplotlib.pyplot as plt <br />
 import seaborn as sns <br />
