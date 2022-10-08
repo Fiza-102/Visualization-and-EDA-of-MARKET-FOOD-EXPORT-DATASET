@@ -5,7 +5,7 @@ a task project <br />
  jupyter notebook 
 # Installations
  import pandas as pd <br />
-import numpy as np<br />
+<import numpy as np<br />>
 import matplotlib.pyplot as plt <br />
 import seaborn as sns <br />
 import datetime as dt<br />
