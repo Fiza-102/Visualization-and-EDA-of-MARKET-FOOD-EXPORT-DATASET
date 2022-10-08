@@ -5,13 +5,18 @@ a task project <br />
  jupyter notebook 
 # Installations
 ```r
-import pandas as pd <br />
+import pandas as pd 
 ```
 import numpy as np<br />
+```
 import matplotlib.pyplot as plt <br />
+```
 import seaborn as sns <br />
+```
 import datetime as dt<br />
+```
 import openpyxl<br />
+```
 # Insights from the visualizations 
 1. By applying countplot on 'month' column of data , I  got that only 3 month data is given .<br />
 2. By applying countplot on 'DESCRIPTION' , I got that 10 types of food items have been demanded out of which BEEF is highly demanded and Kadumanga is least demanded.<br />
